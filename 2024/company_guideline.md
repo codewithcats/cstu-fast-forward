@@ -6,6 +6,9 @@
 
 [แผนที่ไปงาน](https://goo.gl/maps/jNGPdnDPWpXDwJmm6)
 
+# Floor plan
+![ff_2024_layout](https://github.com/codewithcats/cstu-fast-forward/assets/811559/1808b5b4-c5ee-4a0d-a155-e71a93586d61)
+
 # พื้นที่จัดบูธและของที่มีให้
 - ขนาด 2x4 เมตร
 - โต๊ะขนาด 1.8x0.45 เมตร
