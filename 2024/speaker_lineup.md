@@ -6,3 +6,4 @@
 - **เรียนจบแล้วเปิด บริษัทเลยดีไหม?** by Kwan, Chalit Chathirat - Founder and Solutions Creator @ C iN Solutions
 - **How to work with other people with git** by เคน, วรัตถ์ นรัตถรักษา - Senior software developer @ BuzzFreeze solutions
 - **จีนจิง ๆ** by อ.ดร.นพธนิษฐ์ โชติสาร - รอง ผอ. สนท. และ อาจารย์ประจำสาขา MIS TBS มหาวิทยาลัยธรรมศาสตร์
+- **Happy Money สร้างเงินออมให้ทุกเป้าหมายของชีวิต** by พิชาภรณ์ ลิ้มชื่น บริษัท กรุงไทย-แอกซ่า ประกันชีวิต จำกัด (มหาชน)
