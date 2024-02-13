@@ -47,3 +47,13 @@
 | 14:45 | break ของว่าง, networking |
 | 15:00 | session 5 |
 | 15:45 | ปิดงาน, จับรางวัล, ตัวแทนผู้จัดกล่าวขอบคุณ |
+
+## Speakers
+มีทั้งหมด 10 คน แสดงเฉพาะที่ confirm แล้วว่าจะมา
+
+- **Road to SolArc** by อาท สมัชชา ธนังธนกิจ - Solution Architect @ Krungsri Nimble
+- **3 ทวีป: ถามตอบบอกเล่าประสบการณ์ทำงานสายไอทีใน ไทย อเมริกาและ อังกฤษ กับพี่อ๊อด** by Os Shiowattana - Senior Engineering Manager @‌ EarnIn
+- **เรียนจบแล้วเปิด บริษัทเลยดีไหม?** by Kwan, Chalit Chathirat - Founder and Solutions Creator @ C iN Solutions
+- **จีนจิง ๆ** by อ.ดร.นพธนิษฐ์ โชติสาร - รอง ผอ. สนท. และ อาจารย์ประจำสาขา MIS TBS มหาวิทยาลัยธรรมศาสตร์
+- _(Hugeman slot)_ ยังไม่ยืนยันผู้พูดและหัวข้อ
+- **อยากเก่ง AI ไปเรียนต่อที่ไหนดี และอัปเดทงานสายงาน AI ในไทย** - พี่อู๋ CSTU 19
