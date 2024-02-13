@@ -72,3 +72,10 @@
 - ไม่จำกัดจำนวนชิ้น
 - ใส่กี่ถุงก็ได้ ไม่จำเป็นต้องครบทั้ง 300 ถุง
 - ไม่มีข้อจำกัดว่าจะเป็นอะไร ใส่นามบัตรได้ ใส่ของที่ระลึกที่ประชาสัมพันธ์บริษัทได้
+
+![1707811505332](https://github.com/codewithcats/cstu-fast-forward/assets/811559/637c8781-f396-44cf-a60c-897d50de4d76)
+![1707811505477](https://github.com/codewithcats/cstu-fast-forward/assets/811559/e7f22578-b47f-4e81-9434-01b8d89c37e1)
+
+![1707811509617](https://github.com/codewithcats/cstu-fast-forward/assets/811559/579ec9be-c126-491a-b779-1cd2e637517f)
+
+
