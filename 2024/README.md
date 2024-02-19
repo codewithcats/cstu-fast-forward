@@ -51,12 +51,13 @@
 ## Speakers
 มีทั้งหมด 10 คน แสดงเฉพาะที่ confirm แล้วว่าจะมา
 
-- **Road to SolArc** by อาท สมัชชา ธนังธนกิจ - Solution Architect @ Krungsri Nimble
-- **3 ทวีป: ถามตอบบอกเล่าประสบการณ์ทำงานสายไอทีใน ไทย อเมริกาและ อังกฤษ กับพี่อ๊อด** by Os Shiowattana - Senior Engineering Manager @‌ EarnIn
-- **เรียนจบแล้วเปิด บริษัทเลยดีไหม?** by Kwan, Chalit Chathirat - Founder and Solutions Creator @ C iN Solutions
-- **จีนจิง ๆ** by อ.ดร.นพธนิษฐ์ โชติสาร - รอง ผอ. สนท. และ อาจารย์ประจำสาขา MIS TBS มหาวิทยาลัยธรรมศาสตร์
-- **What is opportunity for non developer** - ติรศักดิ์ วงศ์อหิงสา - Head of Product and Technology @ [Hugeman consult](https://hugeman.co/) _เรียน Dev มาแต่ไม่อยาก Dev แล้วตอนทำงาน แล้วยังมีงานตรงไหนบ้างที่เราทำได้ ในการทำ Product development_
-- **อยากเก่ง AI ไปเรียนต่อที่ไหนดี และอัปเดทงานสายงาน AI ในไทย** - พี่อู๋ CSTU 19
+1. **Road to SolArc** by อาท สมัชชา ธนังธนกิจ - Solution Architect @ Krungsri Nimble
+1. **3 ทวีป: ถามตอบบอกเล่าประสบการณ์ทำงานสายไอทีใน ไทย อเมริกาและ อังกฤษ กับพี่อ๊อด** by Os Shiowattana - Senior Engineering Manager @‌ EarnIn
+1. **เรียนจบแล้วเปิด บริษัทเลยดีไหม?** by Kwan, Chalit Chathirat - Founder and Solutions Creator @ C iN Solutions
+1. **จีนจิง ๆ** by อ.ดร.นพธนิษฐ์ โชติสาร - รอง ผอ. สนท. และ อาจารย์ประจำสาขา MIS TBS มหาวิทยาลัยธรรมศาสตร์
+1. **What is opportunity for non developer** - ติรศักดิ์ วงศ์อหิงสา - Head of Product and Technology @ [Hugeman consult](https://hugeman.co/) _เรียน Dev มาแต่ไม่อยาก Dev แล้วตอนทำงาน แล้วยังมีงานตรงไหนบ้างที่เราทำได้ ในการทำ Product development_
+1. **อยากเก่ง AI ไปเรียนต่อที่ไหนดี และอัปเดทงานสายงาน AI ในไทย** - พี่อู๋ CSTU 19
+1. _ยังไม่ได้หัวข้อ_ - พี่ดีน @ Thoughtworks
 
 ## Sponsorship
 \*ไม่รับการสนับสนุนเป็นเงิน
