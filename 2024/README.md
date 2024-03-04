@@ -59,6 +59,7 @@
 1. **อยากเก่ง AI ไปเรียนต่อที่ไหนดี และอัปเดทงานสายงาน AI ในไทย** - พี่อู๋ CSTU 19
 3. **Future of Jobs "DevSecOps"** อาชีพมาเเรง ได้เงินเดือนหลักเเสน จริงมั้ย ? - เดียร์ @ Opsta
 4. **Spoil จักรวาล tech industry**: โลกการทำงานจริงต้องเจออะไรบ้าง - by พี่เน็ด Software Engineer @ CJ, TU Alumni
+5. **เรียนรู้การเปิดโอกาสให้ตัวเอง ผ่านประสบการณ์ Agile Coach** by Par Pichaya Senior Agile Coach at KBTG
 
 ## Sponsorship
 \*ไม่รับการสนับสนุนเป็นเงิน
