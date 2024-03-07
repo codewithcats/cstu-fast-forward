@@ -49,7 +49,6 @@
 | 15:45 | ปิดงาน, จับรางวัล, ตัวแทนผู้จัดกล่าวขอบคุณ |
 
 ## Speakers
-มีทั้งหมด 10 คน แสดงเฉพาะที่ confirm แล้วว่าจะมา
 
 1. **Road to SolArc** by อาท สมัชชา ธนังธนกิจ - Solution Architect @ Krungsri Nimble
 1. **3 ทวีป: ถามตอบบอกเล่าประสบการณ์ทำงานสายไอทีใน ไทย อเมริกาและ อังกฤษ กับพี่อ๊อด** by Os Shiowattana - Senior Engineering Manager @‌ EarnIn
