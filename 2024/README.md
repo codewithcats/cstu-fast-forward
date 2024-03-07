@@ -60,6 +60,7 @@
 3. **Future of Jobs "DevSecOps"** อาชีพมาเเรง ได้เงินเดือนหลักเเสน จริงมั้ย ? - เดียร์ @ Opsta
 4. **Spoil จักรวาล tech industry**: โลกการทำงานจริงต้องเจออะไรบ้าง - by พี่เน็ด Software Engineer @ CJ, TU Alumni
 5. **เรียนรู้การเปิดโอกาสให้ตัวเอง ผ่านประสบการณ์ Agile Coach** by Par Pichaya Senior Agile Coach at KBTG
+6. **จาก Junior Developer สู่ Team Leader** พี่โบว์ ฤชุตา นันตะพานา Platform Lead "ถุงเงิน" Team ศิษย์เก่า CSTU
 
 ## Sponsorship
 \*ไม่รับการสนับสนุนเป็นเงิน
